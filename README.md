@@ -63,3 +63,11 @@ rem observe "which tasks used fireworks and why"
 ## Project description (form paste)
 
 See `SUBMISSION.md`.
+
+---
+
+## AI Assistants Used
+
+| Assistant | Role |
+|-----------|------|
+| **Grok** | Architecture design & code assistance |
