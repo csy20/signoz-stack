@@ -10,9 +10,9 @@ Hackathon submission: **Track 1: AI & Agent Observability**.
 
 ## Demo Video
 
-<video src="assets/demo.mp4" controls muted loop playsinline width="100%">
-  <a href="https://drive.google.com/file/d/1U3ODt5gB48p6jgsJP-F2hQlD9ze3X9dy/view?usp=sharing">Watch demo video on Google Drive</a>
-</video>
+[![Demo Video Preview](assets/demo.gif)](https://drive.google.com/file/d/1U3ODt5gB48p6jgsJP-F2hQlD9ze3X9dy/view?usp=sharing)
+
+🎬 **[Click to watch the full demo video on Google Drive](https://drive.google.com/file/d/1U3ODt5gB48p6jgsJP-F2hQlD9ze3X9dy/view?usp=sharing)**
 
 
 
