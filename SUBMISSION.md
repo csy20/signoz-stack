@@ -24,3 +24,7 @@ Also reference in description:
 ## Deployed link
 http://YOUR_HOST:3301   # SigNoz UI (our env used 3301 because host 8080 was occupied)
 # or default Foundry http://YOUR_HOST:8080
+
+## Demo Video
+https://drive.google.com/file/d/1U3ODt5gB48p6jgsJP-F2hQlD9ze3X9dy/view?usp=sharing
+

@@ -8,6 +8,15 @@ Hackathon submission: **Track 1: AI & Agent Observability**.
 2. **rem-cli `/observe`** — SRE sidekick that queries the **SigNoz MCP** server and answers with live span data.
 3. **This repo** — Foundry `casting.yaml` + lock so judges can reproduce the SigNoz + MCP deployment.
 
+## Demo Video
+
+🎬 **[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1U3ODt5gB48p6jgsJP-F2hQlD9ze3X9dy/view?usp=sharing)** | 📁 **[Local Asset](assets/demo.mp4)**
+
+<video src="assets/demo.mp4" controls="controls" width="100%" style="max-height: 500px;">
+  Your browser does not support the video tag. <a href="https://drive.google.com/file/d/1U3ODt5gB48p6jgsJP-F2hQlD9ze3X9dy/view?usp=sharing">Click here to watch on Google Drive</a>.
+</video>
+
+
 ## Repos
 
 | Component | GitHub |
